@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body class="bg-warning" onload="setData()">
+    <h1 class="text-center mb-5">Gracias por Registrate con Zero-Waste Buddy</h1>
+    <div class="text-center mb-5"">
+    <img
+      src="https://api.qrserver.com/v1/create-qr-code/?data=https://t.me/zeroWasteBuddy_bot?start=getCommand-/&amp;size=300x300"
+      alt=""
+      title=""
+      id="imageBox"
+    />
+    </div>
+    <h4 class="text-center">
+      Utiliza este código QR en tu propiedad para que el usuario pueda desplegar
+      Zero-Waste Buddy
+    </h4>
+    <script>
+      function setData() {
+        if (typeof localStorage != "undefined") {
+          var Cp = (document.getElementById("show").innerHTML =
+            localStorage.name);
+          document.getElementById("imageBox").src =
+            "https://api.qrserver.com/v1/create-qr-code/?data=https://t.me/zeroWasteBuddy_bot?start=getCommand-/" +
+            Cp +
+            "&amp;size=300x300";
+          console.log(Cp);
+        }
+      }
+    </script>
+  </body>
+</html>

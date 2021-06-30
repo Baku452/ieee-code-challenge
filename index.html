@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zero-Waste Buddy</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="bg-warning">
+    <h1 class="text-center">Formulario para Anfitriones Zero-Waste Buddy</h1>
+    <form class="container" method="POST" action="/">
+      <div class="form-group">
+        <input class="form-control" name="Nombre" placeholder="Nombre" />
+      </div>
+      <div class="form-group">
+        <input class="form-control" name="Apellido" placeholder="Apellido" />
+      </div>
+      <div class="form-group">
+        <input class="form-control" name="Ciudad" placeholder="Ciudad" />
+      </div>
+      <div class="form-group">
+        <input
+          class="form-control"
+          name="Cp"
+          placeholder="Código Postal"
+          id="Cp"
+        />
+      </div>
+      <div class="form-group">
+        <input class="form-control" name="Pais" placeholder="País" />
+      </div>
+      <div class="form-group">
+        <input
+          class="form-control"
+          name="Propiedad"
+          placeholder="Nombre de la Propiedad"
+        />
+      </div>
+      <div class="form-group">
+        <input
+          class="form-control"
+          name="RedWifi"
+          placeholder="Nombre de Red Wi-Fi"
+        />
+      </div>
+      <div class="form-group">
+        <input
+          class="form-control"
+          name="ClaveWifi"
+          placeholder="Clave de Red Wi-Fi"
+          id="password"
+          type="password"
+        />
+        <input type="checkbox" onclick="showPassword()" /> Mostrar Contraseña
+      </div>
+
+      <button class="btn btn-primary btn-rounded btn-lg" onclick="submitForm()">
+        Submit
+      </button>
+      <script>
+        function showPassword() {
+          var x = document.getElementById("password");
+          if (x.type === "password") {
+            x.type = "text";
+          } else {
+            x.type = "password";
+          }
+        }
+        function submitForm() {
+          if (typeof localStorage != "undefined") {
+            var Cp = (localStorage.name = document.getElementById("Cp").value);
+          }
+        }
+      </script>
+    </form>
+  </body>
+</html>
