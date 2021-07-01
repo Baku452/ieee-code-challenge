@@ -13,18 +13,18 @@ Traveling to a new city is difficult. Travelers often have little information on
   <img width="auto" height="auto" src="https://user-images.githubusercontent.com/74805042/124068911-f8906580-da00-11eb-8ec1-ab9088add543.jpg">
 </p>
 
-
-
-## Recursos
-
-#### Video de Presentación 
-https://youtube.com
+## Apps
 
 #### Página web
 http://3.14.139.193/
 
 #### Formulario para anfitriones y generador de código QR
 https://anfitriones.herokuapp.com/
+
+## Recursos
+
+#### Video de Presentación 
+https://youtube.com
 
 #### Plan de Negocios
 https://anfitriones.herokuapp.com/
