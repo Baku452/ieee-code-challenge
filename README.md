@@ -27,7 +27,7 @@ https://anfitriones.herokuapp.com/
 ## Recursos
 
 #### Video de Presentación 
-https://drive.google.com/file/d/1BD4w7jIDb6jWJBuYEPPK9D_Rf3RxgDzq/view?usp=sharing
+https://drive.google.com/file/d/1_TzEsFy5N0E2pqaQhh48dtAZ7gm_aEHJ/view?usp=sharing
 
 #### Plan de Negocios
 https://anfitriones.herokuapp.com/
