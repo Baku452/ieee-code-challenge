@@ -30,7 +30,7 @@ https://anfitriones.herokuapp.com/
 https://youtu.be/YJsJKlhAo5I
 
 #### Plan de Negocios
-https://anfitriones.herokuapp.com/
+https://drive.google.com/file/d/1THFEKwxz4rS7Q-Di5hIeZRrgYVKlnaqw/view?usp=sharing
 
 ## Redes Sociales
 * [Facebook](https://www.facebook.com/zerowastebuddy/)
