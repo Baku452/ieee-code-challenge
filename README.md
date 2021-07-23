@@ -39,7 +39,7 @@ https://anfitriones.herokuapp.com/
 <a name="recursos"></a>
 
 #### Video de Presentación 
-https://youtu.be/mXcVO0zNgqw
+https://www.youtube.com/watch?v=f_wT3pSGy7E
 
 #### Plan de Negocios
 https://drive.google.com/file/d/1THFEKwxz4rS7Q-Di5hIeZRrgYVKlnaqw/view?usp=sharing
@@ -48,6 +48,7 @@ https://drive.google.com/file/d/1THFEKwxz4rS7Q-Di5hIeZRrgYVKlnaqw/view?usp=shari
 <a name="redes"></a>
 * [Facebook](https://www.facebook.com/zerowastebuddy/)
 * [Instagram](https://www.instagram.com/zerowastebuddy/)
+* [Youtube](https://www.youtube.com/channel/UCyeksk7d-x8zHBCVeim9I_A)
 
 ## Autores / Authors
 <a name="autores"></a>
