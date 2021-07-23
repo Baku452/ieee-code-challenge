@@ -8,12 +8,19 @@ Traveling to a new city is difficult. Travelers often have little information on
   <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/06/zwb-logo.png">
 </p>
 
+# Contents
+1. [Arquitecutra Zero-Waste Buddy](#arquitectura)
+2. [Apps Zero-Waste Buddy](#apps)
+3. [Recursos Zero-Waste Buddy](#recursos)
+
 ## Arquitectura
+<a name="arquitectura"></a>
 <p align="center">
   <img width="auto" height="auto" src="https://user-images.githubusercontent.com/74805042/124068911-f8906580-da00-11eb-8ec1-ab9088add543.jpg">
 </p>
 
 ## Apps
+<a name="apps"></a>
 
 #### ChatBot
 https://t.me/zeroWasteBuddy_bot?start=getCommand-/
@@ -25,6 +32,7 @@ http://3.14.139.193/
 https://anfitriones.herokuapp.com/
 
 ## Recursos
+<a name="recursos"></a>
 
 #### Video de Presentación 
 https://youtu.be/mXcVO0zNgqw
