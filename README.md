@@ -1,5 +1,5 @@
 # Zero-Waste Buddy
-high level concept
+Zero-Waste Buddy is your friendly chatbot for everyday sustainable product suggestions!
 <p align="center">
   <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/06/zwb-logo.png">
 </p>
