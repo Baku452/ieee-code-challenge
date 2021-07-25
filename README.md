@@ -12,15 +12,16 @@ high level concept
 ##### Our solution
 
 ## Contents
-1. [Descripción/Description](#descripcion)
-2. [Arquitecutra/Arquitecture Zero-Waste Buddy](#arquitectura)
-3. [Apps Zero-Waste Buddy](#apps)
-4. [Recursos/Resources Zero-Waste Buddy](#recursos)
-5. [Redes Sociales/Social Media](#redes)
-6. [Autores/Authors](#autores)
+1. [Demo Video](#demo)
+2. [Arquitecture Zero-Waste Buddy](#arquitectura)
+3. [Roadmap](#map)
+4. [Live-demo](#livedemo)
+5. [Resources Zero-Waste Buddy](#recursos)
+6. [Authors](#autores)
+7. [Social Media](#redes)
 
 ## Demo Video 
-
+<a name="demos"></a>
 ## The Architecture
 <a name="arquitectura"></a>
 <p align="center">
@@ -28,8 +29,10 @@ high level concept
 </p>
 
 ## Roadmap
+<a name="map"></a>
 
 ## Try it - Live Demo
+<a name="livedemo"></a>
 
 ## Resources
 <a name="recursos"></a>
