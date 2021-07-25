@@ -40,8 +40,8 @@ Zero-Waste Buddy is your friendly chatbot for everyday sustainable product sugge
 #### Video de Presentación 
 https://www.youtube.com/watch?v=f_wT3pSGy7E
 
-#### Plan de Negocios
-https://drive.google.com/file/d/1THFEKwxz4rS7Q-Di5hIeZRrgYVKlnaqw/view?usp=sharing
+#### Business Model 
+https://drive.google.com/file/d/1FuMBK3N1oO8qaRzdKzZz02pEjsaxrEuO/view?usp=sharing
 
 
 ## Authors
