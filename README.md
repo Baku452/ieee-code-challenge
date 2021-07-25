@@ -58,32 +58,6 @@ https://drive.google.com/file/d/1THFEKwxz4rS7Q-Di5hIeZRrgYVKlnaqw/view?usp=shari
 
 
 
-[comment]: <>## Apps
-[comment]: <><a name="apps"></a>
-
-[comment]: <>#### ChatBot
-[comment]: <>https://t.me/zeroWasteBuddy_bot?start=getCommand-/
-
-[comment]: <>#### Página web
-[comment]: <>http://3.14.139.193/
-
-[comment]: <>#### Formulario para anfitriones y generador de código QR    
-[comment]: <>https://anfitriones.herokuapp.com/
-
-[comment]: <>## Resources
-[comment]: <><a name="recursos"></a>
-
-[comment]: <>#### Video de Presentación 
-[comment]: <>https://www.youtube.com/watch?v=f_wT3pSGy7E
-
-[comment]: <>#### Plan de Negocios
-[comment]: <>https://drive.google.com/file/d/1THFEKwxz4rS7Q-Di5hIeZRrgYVKlnaqw/view?usp=sharing
-
-[comment]: <>## Redes Sociales / Social Media
-[comment]: <><a name="redes"></a>
-[comment]: <>* [Facebook](https://www.facebook.com/zerowastebuddy/)
-[comment]: <>* [Instagram](https://www.instagram.com/zerowastebuddy/)
-[comment]: <>* [Youtube](https://www.youtube.com/channel/UCyeksk7d-x8zHBCVeim9I_A)
 
 
 
