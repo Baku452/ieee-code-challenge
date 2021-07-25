@@ -1,4 +1,16 @@
 # Zero-Waste Buddy
+high level concept
+<p align="center">
+  <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/06/zwb-logo.png">
+</p>
+
+## Short Description
+##### what's the problem?
+
+##### how can technology help?
+
+##### Our solution
+
 ## Contents
 1. [Descripción/Description](#descripcion)
 2. [Arquitecutra/Arquitecture Zero-Waste Buddy](#arquitectura)
@@ -7,35 +19,19 @@
 5. [Redes Sociales/Social Media](#redes)
 6. [Autores/Authors](#autores)
 
-# Zero-Waste Buddy
-<a name="descripcion"></a>
-Viajar a una ciudad nueva es difícil, la persona que lo hace muchas veces tiene información escasa o nula de dónde adquirir productos de primera necesidad y a la vez llevar una vida sostenible reduciendo los desechos plásticos y entre otros contaminantes. Por ello, hemos creado un chatbot y una página web de recomendaciones de empresas ecoamigables o sostenibles, para ayudarles a vender sus productos y a la vez que cuando el cliente elija los productos que quisiera consumir estaría reduciendo su huella de carbono si adquiere el producto. 
+## Demo Video 
 
-Traveling to a new city is difficult. Travelers often have little information on where to buy basic necessities while minimizing plastic waste and leading a sustainable lifestyle. We have created a chatbot and an associated website that offers recommendations of sustainable products and companies. The companies will benefit by seeing their products promoted to visitors of Latin America cities. Thanks to the chatbot, customers will be supporting local businesses and reducing their environmental footprint by acquiring the products suggested by Zero-Waste Buddy.
-
-<p align="center">
-  <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/06/zwb-logo.png">
-</p>
-
-## Arquitectura / Arquitecture
+## The Architecture
 <a name="arquitectura"></a>
 <p align="center">
   <img width="auto" height="auto" src="https://user-images.githubusercontent.com/74805042/124068911-f8906580-da00-11eb-8ec1-ab9088add543.jpg">
 </p>
 
-## Apps
-<a name="apps"></a>
+## Roadmap
 
-#### ChatBot
-https://t.me/zeroWasteBuddy_bot?start=getCommand-/
+## Try it - Live Demo
 
-#### Página web
-http://3.14.139.193/
-
-#### Formulario para anfitriones y generador de código QR    
-https://anfitriones.herokuapp.com/
-
-## Recursos / Resources
+## Resources
 <a name="recursos"></a>
 
 #### Video de Presentación 
@@ -44,18 +40,50 @@ https://www.youtube.com/watch?v=f_wT3pSGy7E
 #### Plan de Negocios
 https://drive.google.com/file/d/1THFEKwxz4rS7Q-Di5hIeZRrgYVKlnaqw/view?usp=sharing
 
-## Redes Sociales / Social Media
-<a name="redes"></a>
-* [Facebook](https://www.facebook.com/zerowastebuddy/)
-* [Instagram](https://www.instagram.com/zerowastebuddy/)
-* [Youtube](https://www.youtube.com/channel/UCyeksk7d-x8zHBCVeim9I_A)
 
-## Autores / Authors
+## Authors
 <a name="autores"></a>
 1. Raul Alejandro Buendía Montiel - Full Stack Developer
 2. Joseph Bonilla - Full Stack Developer
 3. Aldair Huamani Cusi - Full Stack Developer
 4. Marisol Ramos Camacho - Business Administration 
 5. Yissel Contreras Valeriano - Marketing Specialist
+
+## Redes Sociales / Social Media
+<a name="redes"></a>
+* [Facebook](https://www.facebook.com/zerowastebuddy/)
+* [Instagram](https://www.instagram.com/zerowastebuddy/)
+* [Youtube](https://www.youtube.com/channel/UCyeksk7d-x8zHBCVeim9I_A)
+
+
+
+
+[comment]: <>## Apps
+[comment]: <><a name="apps"></a>
+
+[comment]: <>#### ChatBot
+[comment]: <>https://t.me/zeroWasteBuddy_bot?start=getCommand-/
+
+[comment]: <>#### Página web
+[comment]: <>http://3.14.139.193/
+
+[comment]: <>#### Formulario para anfitriones y generador de código QR    
+[comment]: <>https://anfitriones.herokuapp.com/
+
+[comment]: <>## Resources
+[comment]: <><a name="recursos"></a>
+
+[comment]: <>#### Video de Presentación 
+[comment]: <>https://www.youtube.com/watch?v=f_wT3pSGy7E
+
+[comment]: <>#### Plan de Negocios
+[comment]: <>https://drive.google.com/file/d/1THFEKwxz4rS7Q-Di5hIeZRrgYVKlnaqw/view?usp=sharing
+
+[comment]: <>## Redes Sociales / Social Media
+[comment]: <><a name="redes"></a>
+[comment]: <>* [Facebook](https://www.facebook.com/zerowastebuddy/)
+[comment]: <>* [Instagram](https://www.instagram.com/zerowastebuddy/)
+[comment]: <>* [Youtube](https://www.youtube.com/channel/UCyeksk7d-x8zHBCVeim9I_A)
+
 
 
