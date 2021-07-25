@@ -32,7 +32,7 @@ https://t.me/zeroWasteBuddy_bot?start=getCommand-/
 #### Página web
 http://3.14.139.193/
 
-#### Formulario para anfitriones y generador de código QR
+#### Formulario para anfitriones y generador de código QR    //daifuhaduifhduhfuiadhau
 https://anfitriones.herokuapp.com/
 
 ## Recursos / Resources
