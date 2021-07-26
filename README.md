@@ -9,13 +9,13 @@ Zero-Waste Buddy is your friendly chatbot for everyday sustainability on the go.
 
 We have created a Telegram chatbot that offers you daily suggestions for sustainable products while you travel. Available in Latin America Airbnb locations through Telegram.
 
-##### what's the problem?
+#### what's the problem?
 Travelers lack knowledge about the sustainable businesses that exist in their destinations. They are also less likely to be familiar with local waste management systems. At the same time, local sustainable businesses struggle to make their brands known.
 
-##### how can technology help?
+#### how can technology help?
 By joining a centralized platform, local businesses can make their brands known and offer their sustainable product catalogs to travelers in their location. IBM's Watson Assistant is used to create a natural conversation with the traveler, offering favorite products that are updated daily. Airbnb travelers can enjoy everyday products rated by users of Zero-Waste Buddy.
 
-##### Our solution
+#### Our solution
 We have created a friendly chatbot that utilizes IBM Watson assistant to offer daily sustainable product suggestions. The chatbot will tailor recommendations to favorite products, offer product categories, and generate new product recommendations daily.
 
 ## Contents
