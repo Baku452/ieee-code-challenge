@@ -22,13 +22,14 @@ We have created a friendly chatbot that utilizes IBM Watson assistant to offer d
 1. [Demo Video](#demo)
 2. [Arquitecture Zero-Waste Buddy](#arquitectura)
 3. [Roadmap](#map)
-4. [Live-demo](#livedemo)
 5. [Resources Zero-Waste Buddy](#recursos)
 6. [Authors](#autores)
 7. [Social Media](#redes)
 
 ## Demo Video 
 <a name="demos"></a>
+https://youtu.be/qKEaAf_773c
+
 ## The Architecture
 <a name="arquitectura"></a>
 1. A form in Javascript and Express JS was developed to collect providers who would like to promote their products
@@ -41,9 +42,6 @@ We have created a friendly chatbot that utilizes IBM Watson assistant to offer d
 
 ## Roadmap
 <a name="map"></a>
-
-## Try it - Live Demo
-<a name="livedemo"></a>
 
 ## Resources
 <a name="recursos"></a>
