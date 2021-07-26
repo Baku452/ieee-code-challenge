@@ -49,10 +49,13 @@ We have created a friendly chatbot that utilizes IBM Watson assistant to offer d
 <a name="recursos"></a>
 
 #### Video de Presentación 
-https://www.youtube.com/watch?v=f_wT3pSGy7E
+https://youtu.be/RApPAT7rLG0
 
 #### Business Model 
 https://drive.google.com/file/d/1k8M5krwU6LAEz1lnitJAc57ZS_CRV40z/view?usp=sharing
+
+#### Pitch
+https://drive.google.com/file/d/15RcIbZ0sh3uW1873hHjxRUHB-P9wTV16/view?usp=sharing
 
 
 ## Authors
