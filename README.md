@@ -42,6 +42,8 @@ https://youtu.be/qKEaAf_773c
 
 ## Roadmap
 <a name="map"></a>
+https://drive.google.com/file/d/1B8-2qrmxxxtgYAwsUQcgbT__4PXtP-I5/view?usp=drivesdk
+https://drive.google.com/file/d/1hFL3sPFA91gD3cxiep6Wh-U3vBpArXKg/view?usp=drivesdk
 
 ## Resources
 <a name="recursos"></a>
