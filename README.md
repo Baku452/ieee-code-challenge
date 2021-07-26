@@ -24,6 +24,11 @@ Zero-Waste Buddy is your friendly chatbot for everyday sustainable product sugge
 <a name="demos"></a>
 ## The Architecture
 <a name="arquitectura"></a>
+1. Chatbot for Telegram developed in IBM Watson Studio
+2. Chatbot connects to backend developed using Woocommerce Rest API and hosted into a EC2 Amazon Web Services instance
+3. Backend returns all product data and the Chatbot consumes it to shows users the products
+4. A form in Javascript and Express JS was developed to collect providers who would like to promote their products
+5. Chatbot also consumes this data from the form
 <p align="center">
   <img width="auto" height="auto" src="https://user-images.githubusercontent.com/74805042/124068911-f8906580-da00-11eb-8ec1-ab9088add543.jpg">
 </p>
