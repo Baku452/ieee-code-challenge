@@ -51,6 +51,9 @@ https://drive.google.com/file/d/1hFL3sPFA91gD3cxiep6Wh-U3vBpArXKg/view?usp=drive
 #### Web site 
 http://3.14.139.193/
 
+#### Zero-Waste Buddy Host Form
+https://anfitriones.herokuapp.com/
+
 ## Resources
 <a name="recursos"></a>
 
