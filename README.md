@@ -43,7 +43,10 @@ https://youtu.be/qKEaAf_773c
 
 ## Roadmap
 <a name="map"></a>
+#### Time line - by theme
 https://drive.google.com/file/d/1B8-2qrmxxxtgYAwsUQcgbT__4PXtP-I5/view?usp=drivesdk
+
+#### Swimlane - by status
 https://drive.google.com/file/d/1hFL3sPFA91gD3cxiep6Wh-U3vBpArXKg/view?usp=drivesdk
 
 ## Try it - Live Demo
