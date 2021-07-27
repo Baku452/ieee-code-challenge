@@ -68,7 +68,7 @@ https://drive.google.com/file/d/1k8M5krwU6LAEz1lnitJAc57ZS_CRV40z/view?usp=shari
 1. Raul Alejandro Buendía Montiel - Full Stack Developer
 2. Joseph Bonilla - Full Stack Developer
 3. Aldair Huamani Cusi - Full Stack Developer
-4. Marisol Ramos Camacho - Business Administration 
+4. Marisol Ramos Camacho - Business Administrator 
 5. Yissel Contreras Valeriano - Marketing Specialist
 
 ## Social Media
