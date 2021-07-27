@@ -57,12 +57,11 @@ http://3.14.139.193/
 #### Pitch Video 
 https://youtu.be/RApPAT7rLG0
 
-#### Business Model 
-https://drive.google.com/file/d/1k8M5krwU6LAEz1lnitJAc57ZS_CRV40z/view?usp=sharing
-
-#### Pitch
+#### Pitch PDF
 https://drive.google.com/file/d/15RcIbZ0sh3uW1873hHjxRUHB-P9wTV16/view?usp=sharing
 
+#### Business Model 
+https://drive.google.com/file/d/1k8M5krwU6LAEz1lnitJAc57ZS_CRV40z/view?usp=sharing
 
 ## Authors
 <a name="autores"></a>
@@ -72,7 +71,7 @@ https://drive.google.com/file/d/15RcIbZ0sh3uW1873hHjxRUHB-P9wTV16/view?usp=shari
 4. Marisol Ramos Camacho - Business Administration 
 5. Yissel Contreras Valeriano - Marketing Specialist
 
-## Redes Sociales / Social Media
+## Social Media
 <a name="redes"></a>
 * [Facebook](https://www.facebook.com/zerowastebuddy/)
 * [Instagram](https://www.instagram.com/zerowastebuddy/)
