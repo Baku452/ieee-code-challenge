@@ -20,11 +20,12 @@ We have created a friendly chatbot that utilizes IBM Watson assistant to offer d
 
 ## Contents
 1. [Demo Video](#demo)
-2. [Arquitecture Zero-Waste Buddy](#arquitectura)
+2. [Architecture Zero-Waste Buddy](#arquitectura)
 3. [Roadmap](#map)
-5. [Resources Zero-Waste Buddy](#recursos)
-6. [Authors](#autores)
-7. [Social Media](#redes)
+5. [Try it - Live Demo](#try)
+6. [Resources Zero-Waste Buddy](#recursos)
+7. [Authors](#autores)
+8. [Social Media](#redes)
 
 ## Demo Video 
 <a name="demos"></a>
@@ -44,6 +45,11 @@ https://youtu.be/qKEaAf_773c
 <a name="map"></a>
 https://drive.google.com/file/d/1B8-2qrmxxxtgYAwsUQcgbT__4PXtP-I5/view?usp=drivesdk
 https://drive.google.com/file/d/1hFL3sPFA91gD3cxiep6Wh-U3vBpArXKg/view?usp=drivesdk
+
+## Try it - Live Demo
+<a name="try"></a>
+#### Web site 
+http://3.14.139.193/
 
 ## Resources
 <a name="recursos"></a>
