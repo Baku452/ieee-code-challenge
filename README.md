@@ -1,5 +1,5 @@
 # Zero-Waste Buddy
-Zero-Waste Buddy is your friendly chatbot for everyday sustainable product suggestions!
+Zero-Waste Buddy is the friendly chatbot & marketplace that finds sustainable products for you!
 <p align="center">
   <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/06/zwb-logo.png">
 </p>
