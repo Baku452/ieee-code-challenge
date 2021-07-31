@@ -2,8 +2,7 @@
 # Zero-Waste Buddy
 Zero-Waste Buddy is the friendly chatbot & marketplace that finds sustainable products for you!
 <p align="center">
-  ![logo-circular](https://user-images.githubusercontent.com/32407895/127753848-a31bc2d4-7db1-4292-89fa-1a27c444ea44.png)
-  <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/06/zwb-logo.png">
+  <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/07/logo-circular.png">
 </p>
 
 ## Short Description
