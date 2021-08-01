@@ -71,10 +71,10 @@ https://youtu.be/A46RDwydfXo
 ### Web site 
 http://3.14.139.193/
 
-### Zero-Waste Buddy Host Form
+### Host Form
 https://anfitriones.herokuapp.com/
 
-### Zero-Waste Buddy Chatbot
+### Chatbot
 https://t.me/zeroWasteBuddy_bot?start=getCommand-/inicio
 
 ## Resources
