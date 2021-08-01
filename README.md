@@ -19,10 +19,11 @@ By joining a centralized platform, local businesses can make their brands known 
 We have created a friendly chatbot that utilizes IBM Watson assistant to offer daily sustainable product suggestions. The chatbot will tailor recommendations to favorite products, offer product categories, and generate new product recommendations daily. The Telegram chatbot also has the option to redirect to the Zero-Waste Buddy website to browse the full product catalog, log-in, and to make purchases.
 
 ## Contents
-1. [Architecture Zero-Waste Buddy](#arquitectura)
+1. [The Architecture](#arquitectura)
 2. [Roadmap](#map)
-3. [Try it - Live Demo](#try)
-5. [Resources Zero-Waste Buddy](#recursos)
+3. [Vision](#vision)
+4. [Try it - Live Demo](#try)
+5. [Resources](#recursos)
 6. [Authors](#autores)
 7. [Social Media](#redes)
 
@@ -56,6 +57,10 @@ https://app-rm.roadmunk.com/publish/7aae72c4a2fffca18d69aed46ce30fd88b1c767b
 #### Time line & milestones - PDF
 https://drive.google.com/file/d/1h6DRtSpEeSnPoLQwJFyhsNAXu2YSzV0E/view?usp=sharing
 
+## Vision
+<a name="vision"></a>
+https://drive.google.com/file/d/1NrzMfPOI0R8nSC3ZI7CiDyqk5oRaUe1g/view?usp=sharing
+
 ## Try it - Live Demo
 <a name="try"></a>
 #### Web site 
@@ -72,7 +77,6 @@ https://youtu.be/A46RDwydfXo
 
 ## Resources
 <a name="recursos"></a>
-
 #### Pitch Video 
 https://youtu.be/BayHZPrmYLM
 
