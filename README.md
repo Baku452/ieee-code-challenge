@@ -72,7 +72,7 @@ https://drive.google.com/file/d/1Bn2XduXu30xzQB8-AI4NyeJFli3h3q0Z/view?usp=shari
 ## Authors
 <a name="autores"></a>
 1. Raul Alejandro Buendía Montiel - Full Stack Developer
-2. Joseph Bonilla - Full Stack Developer
+2. Joseph Bonilla - Blockchain Developer
 3. Aldair Huamani Cusi - Full Stack Developer
 4. Marisol Ramos Camacho - Business Administrator 
 5. Yissel Contreras Valeriano - Marketing Specialist
