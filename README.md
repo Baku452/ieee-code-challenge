@@ -33,10 +33,22 @@ https://youtu.be/qKEaAf_773c
 
 ## The Architecture
 <a name="arquitectura"></a>
-1. A form in Javascript and Express JS was developed to collect providers who would like to promote their products
-2. Chatbot for Telegram developed in IBM Watson Studio
-3. Chatbot connects to backend developed using Woocommerce Rest API and hosted into a EC2 Amazon Web Services instance
-4. Backend returns all product data and the Chatbot consumes it to shows users the products
+### Resources and Languages
+1. Database: MongoDB & MySQL
+2. Programming Languages: Javascript, PHP
+3. Frameworks: ExpressJS
+4. AWS Cloud Services: AWS EC2 Instances
+5. IBM Cloud Services: IBM Watson Studio, IBM Cloudant
+
+### Description of Architecture
+
+#### Pre Operation of Chatbot
+1. An user needs to fill the form https://anfitriones.herokuapp.com/ to could register as a host, and then generate a QR code that redirects to the chatbot in Telegram
+#### Operation of Chatbot
+1. A Ecommerce website is developed using WooCommerce to storage tons of products into a MySQL database, also the functionality of Rest-Api of WooCommerce is used to connect to Chatbot and serves data of products.
+3. The Chatbot, developed in Watson Studio by IBM and hosted into IBM Cloudant, retrieves all data of products of WooCommerce and shows those to users in Telegram who have already stablished comunication to chatbot
+4. The Chatbot displays data products to users and they can interact with commands to search products accodring their categories
+5. When user is interested in buying one product, they will be redirect to E-Commerce where can buy the product and search for another categories if they are interested in other products.
 <p align="center">
   <img width="auto" height="auto" src="https://user-images.githubusercontent.com/32407895/127758722-65c563d4-9414-4503-9ecb-6d7fc04f1063.png">
 </p>
@@ -72,7 +84,7 @@ https://drive.google.com/file/d/1Bn2XduXu30xzQB8-AI4NyeJFli3h3q0Z/view?usp=shari
 ## Authors
 <a name="autores"></a>
 1. Raul Alejandro Buendía Montiel - Full Stack Developer
-2. Joseph Bonilla - Blockchain Developer
+2. Joseph Bonilla - Full Stack Developer
 3. Aldair Huamani Cusi - Full Stack Developer
 4. Marisol Ramos Camacho - Business Administrator 
 5. Yissel Contreras Valeriano - Marketing Specialist
