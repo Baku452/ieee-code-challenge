@@ -19,17 +19,12 @@ By joining a centralized platform, local businesses can make their brands known 
 We have created a friendly chatbot that utilizes IBM Watson assistant to offer daily sustainable product suggestions. The chatbot will tailor recommendations to favorite products, offer product categories, and generate new product recommendations daily. The Telegram chatbot also has the option to redirect to the Zero-Waste Buddy website to browse the full product catalog, log-in, and to make purchases.
 
 ## Contents
-1. [Demo Video](#demo)
-2. [Architecture Zero-Waste Buddy](#arquitectura)
-3. [Roadmap](#map)
-5. [Try it - Live Demo](#try)
-6. [Resources Zero-Waste Buddy](#recursos)
-7. [Authors](#autores)
-8. [Social Media](#redes)
-
-## Demo Video 
-<a name="demos"></a>
-https://youtu.be/qKEaAf_773c
+1. [Architecture Zero-Waste Buddy](#arquitectura)
+2. [Roadmap](#map)
+3. [Try it - Live Demo](#try)
+5. [Resources Zero-Waste Buddy](#recursos)
+6. [Authors](#autores)
+7. [Social Media](#redes)
 
 ## The Architecture
 <a name="arquitectura"></a>
@@ -56,13 +51,12 @@ https://youtu.be/qKEaAf_773c
 ## Roadmap
 <a name="map"></a>
 #### Time line - by theme - URL
-https://app-rm.roadmunk.com/publish/8eef564d891b2a21ec1d536f71bf4f5c79bfee3f
+https://app-rm.roadmunk.com/publish/7aae72c4a2fffca18d69aed46ce30fd88b1c767b
 
-#### Time line - by theme - PDF
-https://drive.google.com/file/d/12ny-2FLFJzsSs9e5LG967XvNFy83WtkJ/view?usp=sharing
+#### Time line & milestones - PDF
+https://drive.google.com/file/d/1h6DRtSpEeSnPoLQwJFyhsNAXu2YSzV0E/view?usp=sharing
 
 ## Try it - Live Demo
-https://youtu.be/A46RDwydfXo
 <a name="try"></a>
 #### Web site 
 http://3.14.139.193/
@@ -70,14 +64,20 @@ http://3.14.139.193/
 #### Zero-Waste Buddy Host Form
 https://anfitriones.herokuapp.com/
 
+#### Zero-Waste Buddy Chatbot
+https://t.me/zeroWasteBuddy_bot?start=getCommand-/inicio
+
+##### Demo Chatbot
+https://youtu.be/A46RDwydfXo
+
 ## Resources
 <a name="recursos"></a>
 
 #### Pitch Video 
-https://youtu.be/RApPAT7rLG0
+https://youtu.be/BayHZPrmYLM
 
 #### Pitch PDF
-https://drive.google.com/file/d/15RcIbZ0sh3uW1873hHjxRUHB-P9wTV16/view?usp=sharing
+https://drive.google.com/file/d/1DD1us6TV2EopTBxuULv1aAMzIo7vne54/view?usp=sharing
 
 #### Business Model 
 https://drive.google.com/file/d/1Bn2XduXu30xzQB8-AI4NyeJFli3h3q0Z/view?usp=sharing
