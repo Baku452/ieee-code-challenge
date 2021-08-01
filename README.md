@@ -1,4 +1,3 @@
-
 # Zero-Waste Buddy
 Zero-Waste Buddy is the friendly chatbot & marketplace that finds sustainable products for you!
 <p align="center">
@@ -39,7 +38,7 @@ https://youtu.be/qKEaAf_773c
 3. Chatbot connects to backend developed using Woocommerce Rest API and hosted into a EC2 Amazon Web Services instance
 4. Backend returns all product data and the Chatbot consumes it to shows users the products
 <p align="center">
-  <img width="auto" height="auto" src="https://user-images.githubusercontent.com/32407895/127758666-7505c1b0-98e8-453e-85b1-f8766b8bc174.png">
+  <img width="auto" height="auto" src="https://user-images.githubusercontent.com/32407895/127758722-65c563d4-9414-4503-9ecb-6d7fc04f1063.png">
 </p>
 
 ## Roadmap
