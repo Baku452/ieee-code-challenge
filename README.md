@@ -65,6 +65,9 @@ https://drive.google.com/file/d/1NrzMfPOI0R8nSC3ZI7CiDyqk5oRaUe1g/view?usp=shari
 
 ## Try it - Live Demo
 <a name="try"></a>
+### Demo video
+https://youtu.be/A46RDwydfXo
+
 ### Web site 
 http://3.14.139.193/
 
@@ -73,9 +76,6 @@ https://anfitriones.herokuapp.com/
 
 ### Zero-Waste Buddy Chatbot
 https://t.me/zeroWasteBuddy_bot?start=getCommand-/inicio
-
-#### Demo Chatbot
-https://youtu.be/A46RDwydfXo
 
 ## Resources
 <a name="recursos"></a>
