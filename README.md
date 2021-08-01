@@ -39,7 +39,7 @@ https://youtu.be/qKEaAf_773c
 3. Chatbot connects to backend developed using Woocommerce Rest API and hosted into a EC2 Amazon Web Services instance
 4. Backend returns all product data and the Chatbot consumes it to shows users the products
 <p align="center">
-  <img width="auto" height="auto" src="https://user-images.githubusercontent.com/74805042/124068911-f8906580-da00-11eb-8ec1-ab9088add543.jpg">
+  <img width="auto" height="auto" src="https://user-images.githubusercontent.com/32407895/127758666-7505c1b0-98e8-453e-85b1-f8766b8bc174.png">
 </p>
 
 ## Roadmap
