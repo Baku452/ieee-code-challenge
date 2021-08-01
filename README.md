@@ -5,18 +5,18 @@ Zero-Waste Buddy is the friendly chatbot & marketplace that finds sustainable pr
   <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/07/logo-circular.png">
 </p>
 
-###Short Description
+### Short Description
 Zero-Waste Buddy is your friendly chatbot and marketplace for everyday sustainability on the go.
 
 We have created a Telegram chatbot and marketplace that offers you daily suggestions for sustainable products while you travel. Available in Latin America locations through the Telegram messaging app.
 
-###What's the problem?
+### What's the problem?
 Travelers are unlikely to be familiar with the sustainable businesses that exist in their destinations. They are also often unaware of the local waste management systems guidelines. On the other hand, local sustainable businesses are often small and less likely to be able to make their brand knowns than multinational businesses. This results in about 5 million tonnes of waste produced every years by tourism alone.
 
-###How can technology help?
+### How can technology help?
 By joining a centralized platform, local businesses can make their brands known and offer their sustainable product catalogs to travelers in their location. IBM's Watson Studio is used to create a natural conversation with the traveler, offering favorite products that are updated daily. Travelers in Latin America can enjoy everyday products rated by users of the Zero-Waste Buddy platform.
 
-###Our solution
+### Our solution
 We have created a friendly chatbot that utilizes IBM Watson assistant to offer daily sustainable product suggestions. The chatbot will tailor recommendations to favorite products, offer product categories, and generate new product recommendations daily. The Telegram chatbot also has the option to redirect to the Zero-Waste Buddy website to browse the full product catalog, log-in, and to make purchases.
 
 ## Contents
