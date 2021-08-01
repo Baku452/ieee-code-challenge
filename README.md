@@ -4,10 +4,12 @@ Zero-Waste Buddy is the friendly chatbot & marketplace that finds sustainable pr
   <img width="auto" height="auto" src="http://3.14.139.193/wp-content/uploads/2021/07/logo-circular.png">
 </p>
 
-### Short Description
+## Short Description
 Zero-Waste Buddy is your friendly chatbot and marketplace for everyday sustainability on the go.
 
 We have created a Telegram chatbot and marketplace that offers you daily suggestions for sustainable products while you travel. Available in Latin America locations through the Telegram messaging app.
+
+## Long description
 
 ### What's the problem?
 Travelers are unlikely to be familiar with the sustainable businesses that exist in their destinations. They are also often unaware of the local waste management systems guidelines. On the other hand, local sustainable businesses are often small and less likely to be able to make their brand knowns than multinational businesses. This results in about 5 million tonnes of waste produced every years by tourism alone.
@@ -51,10 +53,10 @@ We have created a friendly chatbot that utilizes IBM Watson assistant to offer d
 
 ## Roadmap
 <a name="map"></a>
-#### Time line - by theme - URL
+### Time line - by theme - URL
 https://app-rm.roadmunk.com/publish/7aae72c4a2fffca18d69aed46ce30fd88b1c767b
 
-#### Time line & milestones - PDF
+### Time line & milestones - PDF
 https://drive.google.com/file/d/1h6DRtSpEeSnPoLQwJFyhsNAXu2YSzV0E/view?usp=sharing
 
 ## Vision
@@ -63,27 +65,27 @@ https://drive.google.com/file/d/1NrzMfPOI0R8nSC3ZI7CiDyqk5oRaUe1g/view?usp=shari
 
 ## Try it - Live Demo
 <a name="try"></a>
-#### Web site 
+### Web site 
 http://3.14.139.193/
 
-#### Zero-Waste Buddy Host Form
+### Zero-Waste Buddy Host Form
 https://anfitriones.herokuapp.com/
 
-#### Zero-Waste Buddy Chatbot
+### Zero-Waste Buddy Chatbot
 https://t.me/zeroWasteBuddy_bot?start=getCommand-/inicio
 
-##### Demo Chatbot
+#### Demo Chatbot
 https://youtu.be/A46RDwydfXo
 
 ## Resources
 <a name="recursos"></a>
-#### Pitch Video 
+### Pitch Video 
 https://youtu.be/BayHZPrmYLM
 
-#### Pitch PDF
+### Pitch PDF
 https://drive.google.com/file/d/1DD1us6TV2EopTBxuULv1aAMzIo7vne54/view?usp=sharing
 
-#### Business Model 
+### Business Model 
 https://drive.google.com/file/d/1Bn2XduXu30xzQB8-AI4NyeJFli3h3q0Z/view?usp=sharing
 
 ## Authors
